@@ -3,7 +3,13 @@
 Chapter 4
 
 GenArt4_1_1_DrawingCircle
-from page 67, started experimenting to see if I can draw a circle before reading on.
+
+using the lines
+float x = centerX+(radius*cos(angle));
+float y = centerY+(radius*sin(angle));
+printed on page 67
+
+started experimenting to see if I can draw a circle before reading on
 
 speed set to 0.01
 
