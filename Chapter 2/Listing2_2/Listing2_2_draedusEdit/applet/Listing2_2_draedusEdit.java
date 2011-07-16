@@ -1,3 +1,22 @@
+import processing.core.*; 
+import processing.xml.*; 
+
+import java.applet.*; 
+import java.awt.Dimension; 
+import java.awt.Frame; 
+import java.awt.event.MouseEvent; 
+import java.awt.event.KeyEvent; 
+import java.awt.event.FocusEvent; 
+import java.awt.Image; 
+import java.io.*; 
+import java.net.*; 
+import java.text.*; 
+import java.util.*; 
+import java.util.zip.*; 
+import java.util.regex.*; 
+
+public class Listing2_2_draedusEdit extends PApplet {
+
 /*
 HYPNOTIZOID EDIT
  added code to make circle grow and shrink.
@@ -9,7 +28,7 @@ int diam = 10;
 float centX, centY;
 boolean grow = true;
 
-void setup() {
+public void setup() {
   size(500, 300);
   frameRate(24);
   smooth();
@@ -21,7 +40,7 @@ void setup() {
   fill(255, 50);
 }
 
-void draw() {
+public void draw() {
   println(grow + " " + diam);
 
 //grow circle
@@ -76,3 +95,7 @@ void draw() {
   }
 }
 
+  static public void main(String args[]) {
+    PApplet.main(new String[] { "--present", "--bgcolor=#666666", "--stop-color=#cccccc", "Listing2_2_draedusEdit" });
+  }
+}
