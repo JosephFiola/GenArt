@@ -1,7 +1,7 @@
 A git repository of me going through the code examples from Matt Pearson's book entitled generative art.
 
 [Book Page](http://zenbullets.com/blog/?page_id=799)
-![Screenshot](http://zenbullets.com/blog/wp-content/uploads/2010/11/cover_500_new.png)
+![Screenshot](http://zenbullets.com/blog/wp-content/uploads/2010/11/cover_500_new.png = 200x200)
 
 
 Source code (Creative Commons licensed): [Original code download](http://www.manning.com/pearson/GenArt_source_code.zip)
