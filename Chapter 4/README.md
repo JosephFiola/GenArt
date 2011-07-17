@@ -1,7 +1,11 @@
 [Gen Art Book Page](http://zenbullets.com/blog/?page_id=799)
 
 Chapter 4
-//-----------------------
+
+
+
+=================================================================================
+
 GenArt4_1_0_DrawingCircle
 
 using the lines
@@ -20,37 +24,61 @@ speed set to 1.0
 
 ![GenArt4 1 1 DrawingCircle Speed 1.0](https://github.com/Draedus/GenArt/raw/master/Chapter%204/GenArt4_1_0_DrawingCircle/GenArt4_1_1_DrawingCircle_speed-1.0.jpg)
 
-//-----------------------
+
+
+=================================================================================
+
+
 GenArt4_1_1_DrawingCircle
 
 ![GenArt4_1_1_DrawingCircle](https://github.com/Draedus/GenArt/raw/master/Chapter%204/GenArt4_1_1_DrawingCircle/GenArt4_1_1_DrawingCircle.jpg)
 
-//----------------
+
+
+=================================================================================
+
+
 GenArt4_1_2_Spiral
 
 ![GenArt4_1_2_Spiral](https://github.com/Draedus/GenArt/raw/master/Chapter%204/GenArt4_1_2_Spiral/GenArt4_1_2_Spiral.jpg)
 
-//----------------------
+
+
+=================================================================================
+
+
 GenArt4_1_3_NoisySpirals
 
 ![GenArt4_1_3_NoisySpirals](https://github.com/Draedus/GenArt/raw/master/Chapter%204/GenArt4_1_3_NoisySpirals/GenArt4_1_3_NoisySpirals.jpg)
 
 
-//---------------------------
+
+=================================================================================
+
+
 GenArt4_1_3_NoisySpirals_x100
 
 ![GenArt4_1_3_NoisySpirals_x100](https://github.com/Draedus/GenArt/raw/master/Chapter%204/GenArt4_1_3_NoisySpirals_x100/GenArt4_1_3_NoisySpirals_x100.jpg)
 
 
-//---------------------
+
+=================================================================================
+
+
 GenArt4_1_4_CustomNoise
 
 ![GenArt4_1_4_CustomNoise.jpg](https://github.com/Draedus/GenArt/raw/master/Chapter%204/GenArt4_1_4_CustomNoise/GenArt4_1_4_CustomNoise.jpg)
 
 
 
-//-----------------
+=================================================================================
+
+
 GenArt4_2_WaveClock
 
 ![GenArt4_2_WaveClock1.jpg](https://github.com/Draedus/GenArt/raw/master/Chapter%204/GenArt4_2_Waveclock/GenArt4_2_WaveClock1.jpg)
 ![GenArt4_2_WaveClock2.jpg](https://github.com/Draedus/GenArt/raw/master/Chapter%204/GenArt4_2_Waveclock/GenArt4_2_WaveClock2.jpg)
+
+
+
+=================================================================================
