@@ -75,7 +75,7 @@ speed set to 1.0
 =================================================================================
 
 
-[GenArt4_2_WaveClock](https://github.com/Draedus/GenArt/tree/master/Chapter%204/GenArt4_2_WaveClock)
+[GenArt4_2_WaveClock](https://github.com/Draedus/GenArt/tree/master/Chapter%204/GenArt4_2_Waveclock)
 
 ![GenArt4_2_WaveClock1.jpg](https://github.com/Draedus/GenArt/raw/master/Chapter%204/GenArt4_2_Waveclock/GenArt4_2_WaveClock1.jpg)
 ![GenArt4_2_WaveClock2.jpg](https://github.com/Draedus/GenArt/raw/master/Chapter%204/GenArt4_2_Waveclock/GenArt4_2_WaveClock2.jpg)
