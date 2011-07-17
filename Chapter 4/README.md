@@ -6,7 +6,7 @@ Chapter 4
 
 =================================================================================
 
-GenArt4_1_0_DrawingCircle
+[GenArt4_1_0_DrawingCircle](https://github.com/Draedus/GenArt/tree/master/Chapter%204/GenArt4_1_0_DrawingCircle)
 
 using the lines
 float x = centerX+(radius*cos(angle));
@@ -29,7 +29,8 @@ speed set to 1.0
 =================================================================================
 
 
-GenArt4_1_1_DrawingCircle
+[GenArt4_1_1_DrawingCircle](https://github.com/Draedus/GenArt/tree/master/Chapter%204/GenArt4_1_1_DrawingCircle)
+
 
 ![GenArt4_1_1_DrawingCircle](https://github.com/Draedus/GenArt/raw/master/Chapter%204/GenArt4_1_1_DrawingCircle/GenArt4_1_1_DrawingCircle.jpg)
 
@@ -38,7 +39,7 @@ GenArt4_1_1_DrawingCircle
 =================================================================================
 
 
-GenArt4_1_2_Spiral
+[GenArt4_1_2_Spiral](https://github.com/Draedus/GenArt/tree/master/Chapter%204/GenArt4_1_2_Spiral)
 
 ![GenArt4_1_2_Spiral](https://github.com/Draedus/GenArt/raw/master/Chapter%204/GenArt4_1_2_Spiral/GenArt4_1_2_Spiral.jpg)
 
@@ -47,7 +48,7 @@ GenArt4_1_2_Spiral
 =================================================================================
 
 
-GenArt4_1_3_NoisySpirals
+[GenArt4_1_3_NoisySpirals](https://github.com/Draedus/GenArt/tree/master/Chapter%204/GenArt4_1_3_NoisySpirals)
 
 ![GenArt4_1_3_NoisySpirals](https://github.com/Draedus/GenArt/raw/master/Chapter%204/GenArt4_1_3_NoisySpirals/GenArt4_1_3_NoisySpirals.jpg)
 
@@ -56,7 +57,7 @@ GenArt4_1_3_NoisySpirals
 =================================================================================
 
 
-GenArt4_1_3_NoisySpirals_x100
+[GenArt4_1_3_NoisySpirals_x100](https://github.com/Draedus/GenArt/tree/master/Chapter%204/GenArt4_1_3_NoisySpirals_x100)
 
 ![GenArt4_1_3_NoisySpirals_x100](https://github.com/Draedus/GenArt/raw/master/Chapter%204/GenArt4_1_3_NoisySpirals_x100/GenArt4_1_3_NoisySpirals_x100.jpg)
 
@@ -65,7 +66,7 @@ GenArt4_1_3_NoisySpirals_x100
 =================================================================================
 
 
-GenArt4_1_4_CustomNoise
+[GenArt4_1_4_CustomNoise](https://github.com/Draedus/GenArt/tree/master/Chapter%204/GenArt4_1_4_CustomNoise)
 
 ![GenArt4_1_4_CustomNoise.jpg](https://github.com/Draedus/GenArt/raw/master/Chapter%204/GenArt4_1_4_CustomNoise/GenArt4_1_4_CustomNoise.jpg)
 
@@ -74,7 +75,7 @@ GenArt4_1_4_CustomNoise
 =================================================================================
 
 
-GenArt4_2_WaveClock
+[GenArt4_2_WaveClock](https://github.com/Draedus/GenArt/tree/master/Chapter%204/GenArt4_2_WaveClock)
 
 ![GenArt4_2_WaveClock1.jpg](https://github.com/Draedus/GenArt/raw/master/Chapter%204/GenArt4_2_Waveclock/GenArt4_2_WaveClock1.jpg)
 ![GenArt4_2_WaveClock2.jpg](https://github.com/Draedus/GenArt/raw/master/Chapter%204/GenArt4_2_Waveclock/GenArt4_2_WaveClock2.jpg)
