@@ -17,12 +17,12 @@ started experimenting to see if I can draw a circle before reading on
 
 speed set to 0.01
 
-![GenArt4 1 1 DrawingCircle Speed 0.01](https://github.com/VJZEF/GenArt/blob/master/Chapter%204/GenArt4_1_0_DrawingCircle/GenArt4_1_1_DrawingCircle_speed-0.01.jpg)
+![GenArt4 1 1 DrawingCircle Speed 0.01](https://github.com/VJZEF/GenArt/blob/master/Chapter%204/GenArt4_1_0_DrawingCircle/GenArt4_1_1_DrawingCircle_speed-0.01.jpg?raw=true)
 
 
 speed set to 1.0
 
-![GenArt4 1 1 DrawingCircle Speed 1.0](https://github.com/VJZEF/GenArt/blob/master/Chapter%204/GenArt4_1_0_DrawingCircle/GenArt4_1_1_DrawingCircle_speed-1.0.jpg)
+![GenArt4 1 1 DrawingCircle Speed 1.0](https://github.com/VJZEF/GenArt/blob/master/Chapter%204/GenArt4_1_0_DrawingCircle/GenArt4_1_1_DrawingCircle_speed-1.0.jpg?raw=true)
 
 
 
@@ -32,7 +32,7 @@ speed set to 1.0
 [GenArt4_1_1_DrawingCircle](https://github.com/VJZEF/GenArt/tree/master/Chapter%204/GenArt4_1_1_DrawingCircle)
 
 
-![GenArt4_1_1_DrawingCircle](https://github.com/VJZEF/GenArt/blob/master/Chapter%204/GenArt4_1_1_DrawingCircle/GenArt4_1_1_DrawingCircle.jpg)
+![GenArt4_1_1_DrawingCircle](https://github.com/VJZEF/GenArt/blob/master/Chapter%204/GenArt4_1_1_DrawingCircle/GenArt4_1_1_DrawingCircle.jpg?raw=true)
 
 
 
@@ -41,7 +41,7 @@ speed set to 1.0
 
 [GenArt4_1_2_Spiral](https://github.com/VJZEF/GenArt/tree/master/Chapter%204/GenArt4_1_2_Spiral)
 
-![GenArt4_1_2_Spiral](https://github.com/VJZEF/GenArt/blob/master/Chapter%204/GenArt4_1_2_Spiral/GenArt4_1_2_Spiral.jpg)
+![GenArt4_1_2_Spiral](https://github.com/VJZEF/GenArt/blob/master/Chapter%204/GenArt4_1_2_Spiral/GenArt4_1_2_Spiral.jpg?raw=true)
 
 
 
@@ -50,7 +50,7 @@ speed set to 1.0
 
 [GenArt4_1_3_NoisySpirals](https://github.com/VJZEF/GenArt/tree/master/Chapter%204/GenArt4_1_3_NoisySpirals)
 
-![GenArt4_1_3_NoisySpirals](https://github.com/VJZEF/GenArt/blob/master/Chapter%204/GenArt4_1_3_NoisySpirals/GenArt4_1_3_NoisySpirals.jpg)
+![GenArt4_1_3_NoisySpirals](https://github.com/VJZEF/GenArt/blob/master/Chapter%204/GenArt4_1_3_NoisySpirals/GenArt4_1_3_NoisySpirals.jpg?raw=true)
 
 
 
@@ -59,7 +59,7 @@ speed set to 1.0
 
 [GenArt4_1_3_NoisySpirals_x100](https://github.com/VJZEF/GenArt/tree/master/Chapter%204/GenArt4_1_3_NoisySpirals_x100)
 
-![GenArt4_1_3_NoisySpirals_x100](https://github.com/VJZEF/GenArt/blob/master/Chapter%204/GenArt4_1_3_NoisySpirals_x100/GenArt4_1_3_NoisySpirals_x100.jpg)
+![GenArt4_1_3_NoisySpirals_x100](https://github.com/VJZEF/GenArt/blob/master/Chapter%204/GenArt4_1_3_NoisySpirals_x100/GenArt4_1_3_NoisySpirals_x100.jpg?raw=true)
 
 
 
@@ -68,7 +68,7 @@ speed set to 1.0
 
 [GenArt4_1_4_CustomNoise](https://github.com/VJZEF/GenArt/tree/master/Chapter%204/GenArt4_1_4_CustomNoise)
 
-![GenArt4_1_4_CustomNoise.jpg](https://github.com/VJZEF/GenArt/blob/master/Chapter%204/GenArt4_1_4_CustomNoise/GenArt4_1_4_CustomNoise.jpg)
+![GenArt4_1_4_CustomNoise.jpg](https://github.com/VJZEF/GenArt/blob/master/Chapter%204/GenArt4_1_4_CustomNoise/GenArt4_1_4_CustomNoise.jpg?raw=true)
 
 
 
@@ -77,8 +77,8 @@ speed set to 1.0
 
 [GenArt4_2_WaveClock](https://github.com/VJZEF/GenArt/tree/master/Chapter%204/GenArt4_2_Waveclock)
 
-![GenArt4_2_WaveClock1.jpg](https://github.com/VJZEF/GenArt/blob/master/Chapter%204/GenArt4_2_Waveclock/GenArt4_2_WaveClock1.jpg)
-![GenArt4_2_WaveClock2.jpg](https://github.com/VJZEF/GenArt/blob/master/Chapter%204/GenArt4_2_Waveclock/GenArt4_2_WaveClock2.jpg)
+![GenArt4_2_WaveClock1.jpg](https://github.com/VJZEF/GenArt/blob/master/Chapter%204/GenArt4_2_Waveclock/GenArt4_2_WaveClock1.jpg?raw=true)
+![GenArt4_2_WaveClock2.jpg](https://github.com/VJZEF/GenArt/blob/master/Chapter%204/GenArt4_2_Waveclock/GenArt4_2_WaveClock2.jpg?raw=true)
 
 
 
