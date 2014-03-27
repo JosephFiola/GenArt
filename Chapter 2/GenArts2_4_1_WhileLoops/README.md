@@ -2,7 +2,7 @@
 from page 35 of Matt Pearson's Generative Art book. - [Book Page](http://zenbullets.com/blog/?page_id=799)
 
 
-![Screenshot](https://github.com/VJZEF/GenArt/raw/b807c3feacf4dc53d91c7fc2cc40961ec519b592/Chapter%202/Listing2_2/Listing2_2_VJZEFEdit/screenshot.png)
+![Screenshot](https://github.com/VJZEF/GenArt/blob/master/Chapter%202/GenArts2_4_1_WhileLoops/GenArts2_4_1_WhileLoops_VJZEFEdit/screenshot.png?raw=true)
 
 
 
