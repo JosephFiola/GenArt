@@ -1,0 +1,70 @@
+<html>
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" type="text/css" href="../../style.css">
+  <script language="javascript" type="text/javascript" src="../../p5.min.js"></script>
+  <script language="javascript" type="text/javascript" src="sketch.js"></script>
+</head>
+
+<body>
+<h3><a href="http://josephfiola.github.io/GenArt">Code examples from the book "Generative Art" in p5.js</a> </h3>
+	
+<h4>A Generative system in 24 lines of code</h4>
+
+<!-- p5js canvas -->
+<div id="canvas">
+</div>
+
+<div id="smallnotes">
+Refreshes on mouse click
+</div>
+
+<pre>
+function setup() {
+	createCanvas(400, 400);
+	background(0);
+	stroke(0,50);
+	fill(255,200);
+	translate(width/2, height/2);
+	setRandom();
+}
+
+function setRandom(){
+	var xstart = random(10);
+	var ynoise = random(10);
+	for(var y = -(height/4); y <=(height/4); y+=3){
+		ynoise +=0.02;
+		var xnoise = xstart;
+		for(var x = -(width/4); x<=(width/4); x+=3){
+			xnoise+=0.02;
+			drawPoint(x,y, noise(xnoise,ynoise));
+		}	
+	}	
+}
+
+function mousePressed(){
+	background(0);
+	setRandom();
+}
+
+function drawPoint(x,y,noiseFactor){
+	push();						
+	translate(x * noiseFactor * 4, y * noiseFactor * 4, -y);
+	var edgeSize = noiseFactor * 26;
+	ellipse(0,0,edgeSize,edgeSize);
+	pop();							
+}
+</pre>
+
+
+<p id="footer">
+	<small>
+		<a href="https://github.com/JosephFiola/GenArt" target="_blank">Github repository </a> / 
+		<a href="http://zenbullets.com/book.php" target="_blank"> book page</a> /
+		<a href="http://p5js.org" target="_blank">p5js.org</a> / 
+		<a href="http://josephfiola.com" target="_blank">josephfiola.com</a>
+	</small>
+</p>
+	
+</body>
+</html>
