@@ -1,7 +1,7 @@
 Chapter 2
 </br>
-[ch2_1_2_HelloWorld <img src="ch2_1_2_HelloWorld/export/ch2_1_2_HelloWorld.png" style="width: 100px;"/>](ch2_1_2_HelloWorld)
-[ch2_2_1_Functions_Params_ColorValues <img src="ch2_2_1_Functions_Params_ColorValues/export/ch2_2_1_Functions_Params_ColorValues.png" style="width: 100px;"/>](ch2_2_1_Functions_Params_ColorValues)
+[ch2_1_2_HelloWorld <img src="ch2_1_2_HelloWorld/export/ch2_1_2_HelloWorld.png" width="100px"/>](ch2_1_2_HelloWorld)
+[ch2_2_1_Functions_Params_ColorValues <img src="ch2_2_1_Functions_Params_ColorValues/export/ch2_2_1_Functions_Params_ColorValues.png" width="100px" />](ch2_2_1_Functions_Params_ColorValues)
 
 ![Ch2 2 3 Variables](ch2_2_3_Variables/export/ch2_2_3_Variables.png	=100x100)
 ![Ch2 2 4 Fills AlphaValues DrawingOrder](ch2_2_4_Fills_AlphaValues_DrawingOrder/export/ch2_2_4_Fills_AlphaValues_DrawingOrder.png	=100x100)
