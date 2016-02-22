@@ -5,7 +5,8 @@ A git repository of me going through the code examples from Matt Pearson's book 
 ![Screenshot](http://zenbullets.com/blog/wp-content/uploads/2010/11/cover_500_new.png)
 
 Chapter 2
-![Ch2 1 2 HelloWorld](ch2_1_2_HelloWorld/export/ch2_1_2_HelloWorld.png	=100x100)
+[<img src="ch2_1_2_HelloWorld/export/ch2_1_2_HelloWorld.png" style="width: 100px;"/>](ch2_1_2_HelloWorld)
+
 ![Ch2 2 1 Functions Params ColorValues](ch2_2_1_Functions_Params_ColorValues/export/ch2_2_1_Functions_Params_ColorValues.png	=100x100)
 ![Ch2 2 3 Variables](ch2_2_3_Variables/export/ch2_2_3_Variables.png	=100x100)
 ![Ch2 2 4 Fills AlphaValues DrawingOrder](ch2_2_4_Fills_AlphaValues_DrawingOrder/export/ch2_2_4_Fills_AlphaValues_DrawingOrder.png	=100x100)
