@@ -1,7 +1,7 @@
 // variables		
 int    diam = 10;
 float  centX, centY;
-int    bgColor = 245;
+int    bgColor = 30;
 float  padding = 1.75;
 
 // init			
@@ -13,7 +13,7 @@ void setup() {
   background(bgColor);
   centX = width/2;
   centY = height/2;
-  stroke(0);
+  stroke(230);
   strokeWeight(5); 
   fill(255, 50);     
 }

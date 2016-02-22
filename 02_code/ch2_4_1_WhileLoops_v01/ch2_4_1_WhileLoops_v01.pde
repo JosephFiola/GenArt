@@ -1,5 +1,5 @@
 int diam = 10;
-int bgColor = 245;
+int bgColor = 30;
 int strokeThickness = 5;
 float centX, centY;
 
@@ -8,7 +8,7 @@ void setup() {
   pixelDensity(displayDensity());
   frameRate(30);
   background(bgColor);
-  stroke(30);
+  stroke(230);
   centX=width/2;
   centY=height/2;
 
@@ -19,7 +19,7 @@ void draw() {
   if (diam<=width-200) {
     background(bgColor);
     strokeWeight(strokeThickness);
-    fill(255, 250);
+    fill(230,10);
     ellipse(centX, centY, diam, diam);
 
     int tempdiam=diam;

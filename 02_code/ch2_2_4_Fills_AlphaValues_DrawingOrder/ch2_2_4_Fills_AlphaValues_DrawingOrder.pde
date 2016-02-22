@@ -1,14 +1,14 @@
 // setup and background
 size(800, 800);  
 pixelDensity(displayDensity());  
-background(240);
+background(30);
 
 float padding = 0.75;
 float xCenter = width/2;
 float yCenter = height/2;
 
 // draw two crossed lines
-stroke(10);   
+stroke(200);   
 strokeWeight(1);
 
 line(  xCenter - (xCenter * padding),
@@ -24,8 +24,8 @@ line(  xCenter + (xCenter * padding),
       );
 
 // draw a filled circle too 
-stroke(0, 150);     
-strokeWeight(6);  
+stroke(255, 150);     
+strokeWeight(10);  
 fill(255, 150);      
 ellipse(xCenter, yCenter, xCenter * padding, yCenter * padding);
 

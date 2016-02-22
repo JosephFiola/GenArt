@@ -1,13 +1,13 @@
 size(800, 800);	
 pixelDensity(displayDensity()); //smooth lines on Retina displays
-background(240); 
+background(30); 
 
 float padding = 0.75;
 float centX = width/2;
 float centY = height/2;
 stroke(255); 
 strokeWeight(2);  
-fill(30);	
+fill(25);	
 
 ellipse(centX, centY, centX * padding, centY * padding);		
 line(centX - centX * padding, centY - centY * padding, centX + centX * padding, centY + centY * padding);

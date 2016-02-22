@@ -1,6 +1,6 @@
 size(800, 800);	
 pixelDensity(displayDensity()); //smooth lines on Retina displays
-background(240); 
+background(30); 
 
 stroke(150); 
 strokeWeight(4);  
