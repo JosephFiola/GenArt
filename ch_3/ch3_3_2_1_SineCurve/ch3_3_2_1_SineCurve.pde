@@ -1,4 +1,4 @@
-size(800,800);
+size(800,800,P3D);
 pixelDensity(displayDensity());
 
 background(30);
@@ -24,4 +24,4 @@ for (int x=20; x<=width-20; x+=xstep){
  angle++;
 }
 
-save("export"+"/"+getClass().getSimpleName()+  ".png");
+save(getClass().getSimpleName()+  ".png");

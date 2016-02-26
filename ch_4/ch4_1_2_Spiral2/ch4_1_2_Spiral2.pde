@@ -1,4 +1,4 @@
-size(800,800);
+size(800,800,P3D);
 pixelDensity(displayDensity());
 background(30);
 strokeWeight(2);

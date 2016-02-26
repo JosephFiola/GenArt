@@ -24,4 +24,4 @@ for (int x=20; x<=width-20; x+=xstep){
  angle++;
 }
 
-save("export"+"/"+getClass().getSimpleName()+  ".png");
+save(getClass().getSimpleName()+  ".png");
